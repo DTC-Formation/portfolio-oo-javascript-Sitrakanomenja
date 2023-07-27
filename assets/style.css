@@ -1,0 +1,12 @@
+body{
+    margin: 50px;
+}
+.title{
+    color: blue;
+}
+.container-item{
+    display: flex;
+}
+.article-un{
+    padding: 50px;
+}
